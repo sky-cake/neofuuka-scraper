@@ -1,6 +1,8 @@
-# neofuuka-scraper-plus-filters (forked)
+# neofuuka-scraper-plus-filters
 
-**neofuuka-scraper** is a next-generation 4chan scraper, written in Python.
+This is a fork of neofuuka-scraper.
+
+**neofuuka-scraper-plus-filters** is a next-generation 4chan scraper, with filters, written in Python.
 
 
 Its primary goals are:
