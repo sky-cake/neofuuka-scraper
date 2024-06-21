@@ -1,4 +1,4 @@
-# neofuuka-scraper
+# neofuuka-scraper [+ Filters]
 
 **neofuuka-scraper** is a next-generation 4chan scraper, written in Python.
 
